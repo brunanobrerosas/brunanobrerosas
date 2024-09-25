@@ -17,3 +17,12 @@ Atualmente curso Análise e desenvolvimento de sistemas e o meu foco é o desenv
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>    
 </div>
+
+##
+
+Fique a vontade para entrar em contato comigo nas redes abaixo! 💌
+
+<div> 
+  <a href = "mailto:brunanobrerosas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/brunanobrerosas"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
