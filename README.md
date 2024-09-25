@@ -2,7 +2,7 @@
 
 Sou uma eterna estudante movida a curiosidade e café. ☕
 
-Atualmente curso Análise e desenvolvimento de sistemas e o meu foco é o desenvolvimento backend.
+Atualmente curso Análise e Desenvolvimento de Sistemas e o meu foco é o desenvolvimento backend.
 
 <div style="text-align: center;">
    <a href="https://github.com/brunanobrerosas">
